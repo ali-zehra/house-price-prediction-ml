@@ -12,7 +12,8 @@ This project focuses on predicting house prices based on various features using 
 
 ## Dataset
 The dataset is taken from Kaggle.
-(Link will be added here)
+House Prices - Advanced Regression Techniques (Kaggle)
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ## Project Workflow
 - Data loading and cleaning
